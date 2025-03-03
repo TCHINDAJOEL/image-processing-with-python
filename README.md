@@ -1,2 +1,2 @@
-# mage-processing-with-python
-mage processing with python
+# image-processing-with-python
+image processing with python
